@@ -1,0 +1,104 @@
+body{
+    background-image: url("./Images/Background/15250.jpg");
+    background-size: cover;
+}
+
+#Button1{
+    position: relative;
+    top: 500px;
+    left: 1000px;
+    height: 150px;
+}
+#Button2{
+    position: relative;
+    top: 500px;
+    left: 1000px;
+    height: 150px;
+}
+#Button3{
+    position: relative;
+    top: 500px;
+    left: 1000px;
+    height: 150px;
+}
+#Button4{
+    position: relative;
+    top: 500px;
+    left: 1000px;
+    height: 150px;
+}
+#Button5{
+    position: relative;
+    top: 650px;
+    left: 384px;
+    height: 150px;
+}
+#Button6{
+    position: relative;
+    top: 650px;
+    left: 384px;
+    height: 150px;
+}
+#Button7{
+    position: relative;
+    top: 650px;
+    left: 384px;
+    height: 150px;
+}
+#Button8{
+    position: relative;
+    top: 650px;
+    left: 384px;
+    height: 150px;
+}
+#ButtonDivide{
+    position: relative;
+    top: 650px;
+    left: -384px;
+    height: 150px;
+}
+#Button9{
+    position: relative;
+    top: 800px;
+    left: -232px;
+    height: 150px;
+}
+#ButtonAdd{
+    position: relative;
+    top: 800px;
+    left: -232px;
+    height: 150px;
+}
+#ButtonSubtract{
+    position: relative;
+    top: 800px;
+    left: -232px;
+    height: 150px;
+}
+#ButtonEquals{
+    position: relative;
+    top: 800px;
+    left: -232px;
+    height: 150px;
+}
+#ButtonClear{
+    position: relative;
+    top: 800px;
+    left: -232px;
+    height: 150px;
+}
+#ButtonMultiply{
+    position: relative;
+    top: 500px;
+    left: -538px;
+    height: 150px;
+}
+textarea{
+    width: 750px;
+    height: 70px;
+    position: relative;
+    left: 1005px;
+    top: 250px;
+    font-size: 400%;
+    resize: none;
+}

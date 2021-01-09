@@ -1,0 +1,83 @@
+#Button1_Average{
+    position: relative;
+    top: 500px;
+    left: 1000px;
+    height: 150px;
+}
+#Button2_Average{
+    position: relative;
+    top: 500px;
+    left: 1000px;
+    height: 150px;
+}
+#Button3_Average{
+    position: relative;
+    top: 500px;
+    left: 1000px;
+    height: 150px;
+}
+#Button4_Average{
+    position: relative;
+    top: 500px;
+    left: 1000px;
+    height: 150px;
+}
+#Button5_Average{
+    position: relative;
+    top: 650px;
+    left: 384px;
+    height: 150px;
+}
+#Button6_Average{
+    position: relative;
+    top: 650px;
+    left: 384px;
+    height: 150px;
+}
+#Button7_Average{
+    position: relative;
+    top: 650px;
+    left: 384px;
+    height: 150px;
+}
+#Button8_Average{
+    position: relative;
+    top: 650px;
+    left: 384px;
+    height: 150px;
+}
+#Button9_Average{
+    position: relative;
+    top: 800px;
+    left: -232px;
+    height: 150px;
+}
+#ButtonClear_Average{
+    position: relative;
+    top: 800px;
+    left: -232px;
+    height: 150px;
+}
+#ButtonEquals_Average{
+    position: relative;
+    top: 800px;
+    left: -232px;
+    height: 150px;
+}
+#Enter{
+    height: 150px;
+    width: 300px;
+    position: relative;
+    top: 900px;
+    left: -540px;
+    text-size-adjust: 40;
+    font-size: 40px;
+}
+textarea{
+    width: 585px;
+    height: 70px;
+    position: relative;
+    left: -570px;
+    top: 320px;
+    font-size: 400%;
+}
